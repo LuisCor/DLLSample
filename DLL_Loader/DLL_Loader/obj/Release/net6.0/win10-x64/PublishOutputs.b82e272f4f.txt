@@ -1,0 +1,3 @@
+C:\Users\Luis\Documents\Project\DLLSample\DLL_Loader\DLL_Loader\bin\Release\net6.0\win10-x64\publish\DLL_Loader.pdb
+C:\Users\Luis\Documents\Project\DLLSample\DLL_Loader\DLL_Loader\bin\Release\net6.0\win10-x64\publish\BasicDLL.pdb
+C:\Users\Luis\Documents\Project\DLLSample\DLL_Loader\DLL_Loader\bin\Release\net6.0\win10-x64\publish\DLL_Loader.exe

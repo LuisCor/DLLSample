@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis\\Documents\\Project\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj": {}
+    "C:\\Users\\Luis\\Documents\\Project\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis\\Documents\\Project\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj": {
+    "C:\\Users\\Luis\\Documents\\Project\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\Project\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
+        "projectUniqueName": "C:\\Users\\Luis\\Documents\\Project\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
         "projectName": "DLL_Loader",
-        "projectPath": "C:\\Users\\Luis\\Documents\\Project\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
+        "projectPath": "C:\\Users\\Luis\\Documents\\Project\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
         "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\Project\\DLL_Loader\\DLL_Loader\\obj\\",
+        "outputPath": "C:\\Users\\Luis\\Documents\\Project\\DLLSample\\DLL_Loader\\DLL_Loader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,12 +49,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[6.0.0, 6.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[6.0.0, 6.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[6.0.0, 6.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
         }
       }
     }

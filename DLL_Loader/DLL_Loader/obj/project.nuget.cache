@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gm0eroXKa52xwOtAzywXw9ratouciWGIe3/PALLdO04NZYZ9y4p8PGsI6OQyN/SCtSEq5iU9PmZpQkeKREBbhw==",
+  "dgSpecHash": "i2+Q7MCS4ZoOFnwA5tdC/1NrNrw68hUWmr6qF8WIPRhuUOLOOILdH0DhwWYAZtbFFvKt6kVWNzgSvCp7BrGn4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis\\Documents\\Project\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Luis\\Documents\\Project\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0\\microsoft.netcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
