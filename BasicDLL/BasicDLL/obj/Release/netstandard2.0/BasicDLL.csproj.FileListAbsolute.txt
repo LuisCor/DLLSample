@@ -1,0 +1,10 @@
+C:\Users\Luis\Documents\Project\BasicDLL\BasicDLL\bin\Release\netstandard2.0\BasicDLL.deps.json
+C:\Users\Luis\Documents\Project\BasicDLL\BasicDLL\bin\Release\netstandard2.0\BasicDLL.dll
+C:\Users\Luis\Documents\Project\BasicDLL\BasicDLL\bin\Release\netstandard2.0\BasicDLL.pdb
+C:\Users\Luis\Documents\Project\BasicDLL\BasicDLL\obj\Release\netstandard2.0\BasicDLL.csproj.AssemblyReference.cache
+C:\Users\Luis\Documents\Project\BasicDLL\BasicDLL\obj\Release\netstandard2.0\BasicDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Project\BasicDLL\BasicDLL\obj\Release\netstandard2.0\BasicDLL.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Project\BasicDLL\BasicDLL\obj\Release\netstandard2.0\BasicDLL.AssemblyInfo.cs
+C:\Users\Luis\Documents\Project\BasicDLL\BasicDLL\obj\Release\netstandard2.0\BasicDLL.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Project\BasicDLL\BasicDLL\obj\Release\netstandard2.0\BasicDLL.dll
+C:\Users\Luis\Documents\Project\BasicDLL\BasicDLL\obj\Release\netstandard2.0\BasicDLL.pdb

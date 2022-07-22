@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5fa22257-8cb1-4443-8d8f-89e74dae66b9": {
+      "ProjectGuid": "5fa22257-8cb1-4443-8d8f-89e74dae66b9",
+      "DisplayName": "DLL_Loader",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
