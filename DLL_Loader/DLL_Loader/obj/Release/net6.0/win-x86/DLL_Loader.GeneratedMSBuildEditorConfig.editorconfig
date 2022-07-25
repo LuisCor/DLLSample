@@ -10,4 +10,4 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = DLL_Loader
-build_property.ProjectDir = C:\Users\Luis\Documents\Project\DLLSample\DLL_Loader\DLL_Loader\
+build_property.ProjectDir = C:\Users\Luis\Documents\TGTest\DLLSample\DLL_Loader\DLL_Loader\

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luis\\Documents\\Project\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
+      "projectUniqueName": "C:\\Users\\Luis\\Documents\\TGTest\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
       "projectName": "DLL_Loader",
-      "projectPath": "C:\\Users\\Luis\\Documents\\Project\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
+      "projectPath": "C:\\Users\\Luis\\Documents\\TGTest\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
       "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luis\\Documents\\Project\\DLLSample\\DLL_Loader\\DLL_Loader\\obj\\publish\\win-x86\\",
+      "outputPath": "C:\\Users\\Luis\\Documents\\TGTest\\DLLSample\\DLL_Loader\\DLL_Loader\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

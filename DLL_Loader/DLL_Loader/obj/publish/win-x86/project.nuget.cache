@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "37s/DZBRg8tA0/nPjT1AwBZKnAXytvxJUSy4Jgqr0Tk5Fb5nKFmgLNPkELqXuK2WS4YMSxiTu7stSgvACCa3AA==",
+  "dgSpecHash": "SXm3SOR+yoMwoICVMueovbiCy0etzPIcLA1tdaKv0CQyF8QBraX+7KwGPwI18xAkYJ3n8ufhFBlW4E/ASvsaWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis\\Documents\\Project\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
+  "projectFilePath": "C:\\Users\\Luis\\Documents\\TGTest\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.0\\microsoft.netcore.app.runtime.win-x86.6.0.0.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.0.nupkg.sha512",

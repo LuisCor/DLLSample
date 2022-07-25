@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis\\Documents\\Project\\BasicDLL\\BasicDLL\\BasicDLL.csproj": {}
+    "C:\\Users\\Luis\\Documents\\TGTest\\DLLSample\\BasicDLL\\BasicDLL\\BasicDLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis\\Documents\\Project\\BasicDLL\\BasicDLL\\BasicDLL.csproj": {
+    "C:\\Users\\Luis\\Documents\\TGTest\\DLLSample\\BasicDLL\\BasicDLL\\BasicDLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\Project\\BasicDLL\\BasicDLL\\BasicDLL.csproj",
+        "projectUniqueName": "C:\\Users\\Luis\\Documents\\TGTest\\DLLSample\\BasicDLL\\BasicDLL\\BasicDLL.csproj",
         "projectName": "BasicDLL",
-        "projectPath": "C:\\Users\\Luis\\Documents\\Project\\BasicDLL\\BasicDLL\\BasicDLL.csproj",
+        "projectPath": "C:\\Users\\Luis\\Documents\\TGTest\\DLLSample\\BasicDLL\\BasicDLL\\BasicDLL.csproj",
         "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\Project\\BasicDLL\\BasicDLL\\obj\\",
+        "outputPath": "C:\\Users\\Luis\\Documents\\TGTest\\DLLSample\\BasicDLL\\BasicDLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

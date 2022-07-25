@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GYuA1s8Z3QPc/dBNdmJRFVvkT0kX6LkmPnHpqF3ugkqUGCZyr9qSkxI6BnABJ6csX3OyJFXKYzfaPbBMQfIVuQ==",
+  "dgSpecHash": "WKcIJnrmLOmDIDS4zU/8O49abAg+GdrMPEajw/JlW8VpkKrkPQe7uS8Tu89G2sEKyZpVzlNMoOkQ+xvNS7qTLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis\\Documents\\Project\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
+  "projectFilePath": "C:\\Users\\Luis\\Documents\\TGTest\\DLLSample\\DLL_Loader\\DLL_Loader\\DLL_Loader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

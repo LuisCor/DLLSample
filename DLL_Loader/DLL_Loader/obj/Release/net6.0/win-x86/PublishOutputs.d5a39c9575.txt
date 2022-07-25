@@ -1,0 +1,3 @@
+C:\Users\Luis\Documents\TGTest\DLLSample\DLL_Loader\DLL_Loader\bin\publish\win-x86\DLL_Loader.pdb
+C:\Users\Luis\Documents\TGTest\DLLSample\DLL_Loader\DLL_Loader\bin\publish\win-x86\BasicDLL.pdb
+C:\Users\Luis\Documents\TGTest\DLLSample\DLL_Loader\DLL_Loader\bin\publish\win-x86\DLL_Loader.exe
